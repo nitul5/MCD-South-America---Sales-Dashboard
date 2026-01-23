@@ -7,7 +7,7 @@ This Excel dashboard is designed as a multi-sheet, interactive reporting system 
 -	The McDonald’s logo is static and not linked to any sheet.
 
 ## Dashboard Preview:
-![dashboard preview](dashboard_preview)
+![dashboard preview](dashboard_preview.png)
 
 ## **Navigation Panel (Left Side Buttons)**
 The dashboard includes a custom navigation menu on the left side:
